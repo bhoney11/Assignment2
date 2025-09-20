@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tribute to Mads Mikkelsen</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div style="background:#1a2a6c; color:white; text-align:center; padding:8px; font-size:20px;">
+    Tribute to Mads Mikkelsen |
+    <a href="https://www.imdb.com/name/nm0586568/" target="_blank" style="color:#ffd700; text-decoration:none; font-weight:small;">
+        IMDb Profile
+    </a>
+</div>
+
+
+<header>
+    <h1>Tribute to Mads Mikkelsen</h1>
+</header>
+
+<main class="content">
+    <section class="about">
+        <img src="Mads_Mikkelsen_.jpg" alt="Portrait of Mads Mikkelsen" width="300" height="300">
+
+        <h2>About Mads Mikkelsen</h2>
+        <p>
+            Mads Mikkelsen (born 1965) is a Danish actor known for his versatile roles in film and television.
+            He rose to international fame through performances in <em>Casino Royale</em>, <em>Doctor Strange</em>, and the acclaimed series <em>Hannibal</em>.
+            With a career spanning decades, he is celebrated for his intense and charismatic screen presence.
+        </p>
+    </section>
+
+    <section class="career">
+        <h2>Life & Career</h2>
+        <ol>
+            <li>Born in Copenhagen, Denmark in 1965</li>
+            <li>Started his career as a gymnast and dancer before moving into acting</li>
+            <li>Gained recognition with the Danish film <em>Pusher</em> (1996)</li>
+            <li>Won Best Actor at the Cannes Film Festival in 2012 for <em>The Hunt</em></li>
+            <li>Starred in major franchises including James Bond, Marvel, and Star Wars</li>
+        </ol>
+    </section>
+
+    <section class="contributions">
+        <h2>Key Contributions</h2>
+        <ul>
+            <li>Memorable villain Le Chiffre in <em>Casino Royale</em></li>
+            <li>Acclaimed performance as Dr. Hannibal Lecter in <em>Hannibal</em> TV series</li>
+            <li>Praise for roles in Danish cinema, including <em>The Hunt</em> and <em>Another Round</em></li>
+            <li>Recognized as one of Denmark’s most successful international actors</li>
+        </ul>
+    </section>
+
+    <section class="links">
+        <h2>Learn More</h2>
+        <p>
+            <a href="https://en.wikipedia.org/wiki/Mads_Mikkelsen" target="_blank" class="btn">Read on Wikipedia</a>
+        </p>
+    </section>
+</main>
+
+<footer>
+    <p>Created by Dana Tutkyshbaeva, All rights reserved © 2025</p>
+</footer>
+
+</body>
+</html>
